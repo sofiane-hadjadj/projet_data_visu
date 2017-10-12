@@ -1,0 +1,16 @@
+.mat-elevation-z5 {
+   position: relative;
+   z-index: 2;
+}
+#maintitle{
+	color: white;
+	margin: auto
+}
+#corp{
+	height: 100%;
+	width: 100%;
+}
+/deep/ .mat-tab-label{
+	width: 32%;
+	margin: auto;
+}

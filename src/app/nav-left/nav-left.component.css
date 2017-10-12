@@ -1,0 +1,31 @@
+#menu{
+  position: absolute;
+  top: 0;
+  left: 0;
+  z-index: 9999;
+  width: 200px;
+}
+.example-sidenav-fab-container {
+  width: 500px;
+  height: 1000px  ;
+}
+
+.example-sidenav-fab-container md-sidenav {
+  max-width: 200px;
+}
+
+.example-sidenav-fab-container .mat-sidenav-content,
+.example-sidenav-fab-container md-sidenav {
+  display: flex;
+  overflow: visible;
+}
+
+.example-scrolling-content {
+  overflow: auto;
+}
+
+.example-fab {
+  position: absolute;
+  right: 20px;
+  bottom: 10px;
+}
